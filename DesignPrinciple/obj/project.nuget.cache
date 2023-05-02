@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h5E2jS8v5EJb5Oe/ww7Nw4ytDkhn+nNCY2sbGyCZ22m2cpqAoMrt//pRPocMf7Gx6pqZedashQsgeYEpwi9XUg==",
+  "success": true,
+  "projectFilePath": "D:\\new c#\\DesignPrinciple\\DesignPrinciple\\DesignPrinciple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahul-pt6351\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\rahul-pt6351\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
